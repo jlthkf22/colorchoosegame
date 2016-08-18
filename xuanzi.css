@@ -1,0 +1,53 @@
+.wrap {
+	width: 400px;
+	height: 600px;
+	border: 1px solid black;
+	margin: 40px auto;
+}
+
+.header {
+	padding: 10px;
+}
+
+.header span {
+	font-size: 25px;
+}
+
+.header span:nth-child(1) {
+	margin-left: 10px;
+}
+.header span:nth-child(2) {
+	margin-left: 100px;	
+}
+
+.content {
+	padding-top: 100px;
+}
+
+.content div {
+	font-size: 70px;
+	text-align: center;	
+}
+
+.content p {
+	width: 70%;
+	margin: auto;
+	margin-top: 30px;
+	font-size: 20px;
+}
+
+ul {
+	margin-top: 260px;
+	font-size: 50px;
+}
+
+li {
+	float: left;
+	width: 20%;
+	text-align: center;
+	
+}
+img{
+	width: 150%;
+	z-index: 100;
+}
