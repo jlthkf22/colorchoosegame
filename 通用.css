@@ -1,0 +1,17 @@
+* {
+	margin: 0px ; padding: 0px;
+}
+
+ul {
+	list-style: none;
+}
+
+.clear:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+.clear {
+	zoom: 1;
+}
